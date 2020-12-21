@@ -13,7 +13,7 @@ now im entering a new challenge to learn code .*
   
   - *i go to natural place and get relaxing .*
   
-![natural](https://www.adorama.com/alc/wp-content/uploads/2018/11/landscape-photography-tips-yosemite-valley-feature.jpg)
+![natural](https://broganabroad.com/wp-content/uploads/2019/03/lake-bohinj-2554799-Edited-by-me.jpg)
 
  - *i enter a new challenge to get more experience .*
  
