@@ -13,7 +13,7 @@ now im entering a new challenge to learn code .*
   
   - *i go to natural place and get relaxing .*
   
-![natural](https://ychef.files.bbci.co.uk/976x549/p08dsqlj.jpg)
+![natural](https://prod-discovery.edx-cdn.org/media/course/image/93f11b63-0c29-4472-964e-c6db1cc574e8-61863a8d0d90.small.jpg)
 
  - *i enter a new challenge to get more experience .*
  
