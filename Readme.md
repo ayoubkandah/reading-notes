@@ -1,3 +1,11 @@
+-[Mastering markdown](https://ayoubkandah.github.io/reading-notes/Readme1)
+
+
+
+
+
+
+
 
 **Growth Mindset**   
  >*is for Individuals who believe their talents can be developed (through Effort and challenges ) .  They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts).*
