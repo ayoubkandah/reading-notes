@@ -3,5 +3,7 @@
 
 - for me, i keep in growth mindset in 3 ways :
   - i use [udemy](https://www.udemy.com/) to improve my skills in programing.
+  
+  
   ![udemy](https://about.udemy.com/wp-content/uploads/2017/10/NewUlogo-large-1.png)
   
