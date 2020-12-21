@@ -5,3 +5,4 @@ I have a tendency in programming and design, so I learned programming in the **U
   - Photoshop
   - After Effects
   - 3d max.
+  
