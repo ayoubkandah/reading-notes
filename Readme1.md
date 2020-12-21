@@ -1,4 +1,4 @@
-**mastering markdown** *is the way to change style for text like ** bold ** to make text bold and other uses in lists, image(format:! [your text] (URL)),Headers & Quotes(start line # to heading line and manage size by number of # six its limit . for Quotes just start line > ),in code and you can use it to make references and links.*
+**mastering markdown** *is the way to change style for text like ** bold ** to make text bold and other uses in lists, image(format: ! [your text] (URL)),Headers & Quotes(start line # to heading line and manage size by number of # six its limit . for Quotes just start line > ),in code and you can use it to make references and links.*
 
 
 **Github** is the way to make website building more easier without knowledge in database set up ,servers configure and HTML.
