@@ -13,7 +13,7 @@ now im entering a new challenge to learn code .*
   
   - *i go to natural place and get relaxing .*
   
-![natural](https://broganabroad.com/wp-content/uploads/2019/03/lake-bohinj-2554799-Edited-by-me.jpg)
+![natural](https://i.redd.it/v944cyfrwt851.png)
 
  - *i enter a new challenge to get more experience .*
  
