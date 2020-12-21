@@ -2,6 +2,9 @@
  ## Growth Mindset   
  >*is for Individuals who believe their talents can be developed (through Effort and challenges ) .  They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts).*
 
+
+**Hi**,*i'm ayoub kandah i studied risk management and insurance , i have skills in game development, i use unity engine .
+now im entering a new challenge to learn code .*
 ### - for me,  i keep in growth mindset in 3 ways :
   - *i use [udemy](https://www.udemy.com/) to improve my skills in programing.*
   
