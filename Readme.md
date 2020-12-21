@@ -14,7 +14,8 @@
 
 **Hi**,*i'm ayoub kandah i studied risk management and insurance , i have skills in game development, i use unity engine .
 now im entering a new challenge to learn code .*
-  **for me,  i keep in growth mindset in 3 ways :**
+
+ **for me,  i keep in growth mindset in 3 ways :**
  - *i use [udemy](https://www.udemy.com/) to improve my skills in programing.*
   
   
