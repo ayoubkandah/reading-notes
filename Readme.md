@@ -13,7 +13,7 @@ now im entering a new challenge to learn code .*
   
   - *i go to natural place and get relaxing .*
   
-![natural](https://i.redd.it/v944cyfrwt851.png)
+![natural](https://ychef.files.bbci.co.uk/976x549/p08dsqlj.jpg)
 
  - *i enter a new challenge to get more experience .*
  
