@@ -1,5 +1,5 @@
 
- ##Growth Mindset   
+ ## Growth Mindset   
  >*is for Individuals who believe their talents can be developed (through Effort and challenges ) .  They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts).*
 
 ### - for me,  i keep in growth mindset in 3 ways :
@@ -12,5 +12,8 @@
   
 ![natural](https://www.adorama.com/alc/wp-content/uploads/2018/11/landscape-photography-tips-yosemite-valley-feature.jpg)
 
- - *i enter a new challenge to get more experience . *
+ - *i enter a new challenge to get more experience .*
+ 
+ ![brain](https://2.bp.blogspot.com/-vT-8XAd3Ggo/VPePpPSmAiI/AAAAAAAAAec/yVZ5SuVobac/s1600/buildbrain.png)
+ 
 
