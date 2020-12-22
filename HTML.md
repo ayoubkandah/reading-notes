@@ -9,7 +9,7 @@ articles and footers.
 The <div> tag defines logical divisions within a web page.
 This makes easier to manage, style, and manipulate.
 Difrencces between <header> and <footer>.
-Definition and Usage of (<nav>,<aside>,<section>,<hgroup>,<figure>and(<"a"> with attribute href))
+Definition and Usage of (<nav>,<aside>,<section>,<hgroup>,<figure>and(  "a" element  with attribute href))
 discussed about how the CSS can help old browser for rendering and Provide an example for everything put forward.
 
 
