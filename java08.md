@@ -21,3 +21,5 @@ For,While and do while.
 
 A **For** : Loop uses a counter as a condition.
 A **while : Loop used as a condition.
+
+
