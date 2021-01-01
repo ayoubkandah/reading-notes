@@ -5,6 +5,7 @@ information , Structuring Word Documents make a document easier to understand.*
 **HTML Uses Elements to Describe the Structure of Pages**
 *The HTML Element:is everything from the start tag(<) to the end tag(>).*
 **Examples of some HTML elements has an opening tag and a closing tag:**
+
 *1.<"h1">words</h1>
 *2.<"p">words</p>
 *3.<"body">contents of an HTML document, such as headings, paragraphs,etc.</body>
