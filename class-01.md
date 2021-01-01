@@ -11,14 +11,22 @@ information , Structuring Word Documents make a document easier to understand.*
 Examples of some HTML elements has an opening tag and a closing tag
 
 1.< h1 >words< / h1 >
-1.< p >words< /p >
-1.< bod >contents of an HTML document, such as headings, paragraphs,etc.</body>
-1.< html >HTML code< /html >
-1.< head >contains information about the page</head>
-1.< title >defines the document title that is shown in a browser title bar or a page tab.</title>
-1.< main >< /main >(from 102)
-1.< header >< /header >(from 102)
-1.< footer >< /footer >(from 102)
+
+2.< p >words< /p >
+
+3.< bod >contents of an HTML document, such as headings, paragraphs,etc.</body>
+
+4.< html >HTML code< /html >
+
+5.< head >contains information about the page</head>
+
+6.< title >defines the document title that is shown in a browser title bar or a page tab.</title>
+
+7.< main >< /main >(from 102)
+
+8.< header >< /header >(from 102)
+
+9.< footer >< /footer >(from 102)
 
 **Attributes:** *provide additional information about elements,usually come in name/value pairs like: name="value".*
 *Example : Color,Background-Color,Float,href,alt,etc.(from 102)*
