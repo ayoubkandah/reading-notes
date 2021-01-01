@@ -1,4 +1,5 @@
 Chapter 1 :
+
 **Structuring Word Documents**
 
 *The use of headings and subheadings in any document often reflects a hierarchy of
@@ -33,11 +34,13 @@ Examples of some HTML elements has an opening tag and a closing tag
 *Web Page can be creating by text editor like (notepad,notepad++,etc) on Microsoft and (textedit) on MAC.*
 
 Chapter 8 :
+
 *firstly , discusses the differences between the **HTML Versions**  and the **advantages of using HTML 5** , explain about comments in HTML .
 explained some Attributes  (ID and Class) and  Elements (Block,Inline,div,span, iframe and meta).
 sayed about characters thats use for code like (< , > , &,",...etc).*
 
 Chapter 17 :
+
 HTML layouts are a great way to create order in any web site. 
 These elements allow us to arrange the content of the site as smoothly as possible and add style to any desired HTML container with specific HTML contacts for headers, articles and footers.
 The <div> tag defines logical divisions within a web page.
@@ -47,6 +50,7 @@ Definition and Usage of (<nav>,<aside>,<section>,<hgroup>,<figure>and(< a > with
 discussed about how the CSS can help old browser for rendering and Provide an example for everything put forward.
 
 Chapter 18 :
+
 Knowing who is being targeted to visit the site and why they visit the site through specific questions.
 Site Maps:its a diagrame  show the structure of your site, its sections and the links between them,
 Sitemaps make navigating your site easier.
