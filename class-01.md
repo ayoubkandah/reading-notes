@@ -57,7 +57,7 @@ Sitemaps make navigating your site easier.
 WireFrames use to plan a websites structure and experiment with ideas before moving on coding.
 And from my own experience, I feel that the wireframe raises creative when designing it.
 
-JavaScript :
+**JavaScript :**
 
 JavaScript can make webpages more interactive :
 1. access content
