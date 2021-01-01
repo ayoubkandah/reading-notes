@@ -43,7 +43,7 @@ These elements allow us to arrange the content of the site as smoothly as possib
 The <div> tag defines logical divisions within a web page.
 This makes easier to manage, style, and manipulate.
 Difrencces between <header> and <footer>.
-Definition and Usage of (<nav>,<aside>,<section>,<hgroup>,<figure>and(<a> with attribute href))
+Definition and Usage of (<nav>,<aside>,<section>,<hgroup>,<figure>and(< a > with attribute href))
 discussed about how the CSS can help old browser for rendering and Provide an example for everything put forward.
 
 Chapter 18 :
