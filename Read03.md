@@ -5,7 +5,9 @@ houses=[x1,x2,x3];
 *Arrays are used to store multiple values in a single variable*
 
 *You access an array element by referring to the index number. console.log(houses[2]);*
+
 *You can change the value of a specific element, refer to the index number. house[0]=xx;*
+
 *the numbering of this list starts at zero (not one).*
 
 **(If and Else) (switch) statements**
