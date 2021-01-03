@@ -11,6 +11,7 @@ houses=[x1,x2,x3];
 *the numbering of this list starts at zero (not one).*
 
 **(If and Else) (switch) statements**
+
 var hp=110;
 
 var chance=0;
