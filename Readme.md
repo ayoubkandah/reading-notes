@@ -5,7 +5,8 @@ Table of content
 - [introduction for myself](https://ayoubkandah.github.io/reading-notes/Readme2)
 
 
-
+# Code 201 Reading Notes
+* [HTML&JS](https://ayoubkandah.github.io/reading-notes/class-01)
 **Growth Mindset**   
  >*is for Individuals who believe their talents can be developed (through Effort and challenges ) .  They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts).*
 
