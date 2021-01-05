@@ -2,11 +2,20 @@
 
 Table of content
 - [Mastering markdown](https://ayoubkandah.github.io/reading-notes/Readme1)
-- [introduction for myself](https://ayoubkandah.github.io/reading-notes/Readme2)
-
-
+- [introduction for myself](https://ayoubkandah.github.io/reading-notes/myself)
+- [How Computer Work](https://ayoubkandah.github.io/reading-notes/Computer)
+- [Github](https://ayoubkandah.github.io/reading-notes/Readme3)
+- [HTML](https://ayoubkandah.github.io/reading-notes/HTML)
+-[CSS](https://ayoubkandah.github.io/reading-notes/CSS)
+- JavaScript
+  - [JS (1)](https://ayoubkandah.github.io/reading-notes/60aJS)
+  - [JS (2)](https://ayoubkandah.github.io/reading-notes/java07)
+  - [JS (3)](https://ayoubkandah.github.io/reading-notes/java08)
 # Code 201 Reading Notes
-* [HTML&JS](https://ayoubkandah.github.io/reading-notes/class-01)
+ - [HTML&JS Read 01](https://ayoubkandah.github.io/reading-notes/class-01)
+ - [HTML&JS Read 02](https://ayoubkandah.github.io/reading-notes/class-02)
+ - [HTML&JS Read 03](https://ayoubkandah.github.io/reading-notes/Read03)
+ - [HTML&JS Read 04](https://ayoubkandah.github.io/reading-notes/Read04)
 
 
 **Growth Mindset**   
