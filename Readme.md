@@ -1,4 +1,4 @@
-#Table of content
+# Table of content
 
 | Code 102    | Code 201     |
 | :---        |          ---: |
@@ -12,19 +12,6 @@
 |[JS (2)](https://ayoubkandah.github.io/reading-notes/java07)||
 |[JS (3)](https://ayoubkandah.github.io/reading-notes/java08)||
 
-
-
- 
-
-
-  
-   
-  
-
- - 
- - 
- - 
- - 
 
 
 **Growth Mindset**   
