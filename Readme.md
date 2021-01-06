@@ -1,4 +1,8 @@
 
+| Syntax      | Test Text     |
+| :---        |          ---: |
+| Header      | Here's this   |
+| Paragraph   | And more      |
 
 Table of content
 - [Mastering markdown](https://ayoubkandah.github.io/reading-notes/Readme1)
