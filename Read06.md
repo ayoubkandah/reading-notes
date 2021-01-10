@@ -14,76 +14,154 @@ NameOfFunction : function(){
 The DOM specifies the way in which the browser should structure this model using a DOM tree.
 
 With the HTML DOM, JavaScript can access and change all the elements of an HTML document.
+
 JavaScript can change all the HTML elements in the page get El ement Byld (),getElementsByClassName().
+
 JavaScript can change all the HTML attributes in the page.
+
 JavaScript can remove existing HTML elements and attributes removeChild().
+
 JavaScript can add new HTML elements and attribut creatElement().
 
 thereis many way to select elements using DOM 
 
-i used loop to remove all child from my lab
-while (myobj.firstChild) {
-        myobj.removeChild(myobj.firstChild);
-    }
 
-and we can use for loop like 
-var obj=document.querySelectorAl('.nameOfClass)
-for(var x =0;x<obj.length;x++){
-obj[x].textcontent="what you want";
+i used loop to remove all child from my lab
+
+while (myobj.firstChild) {
+
+myobj.removeChild(myobj.firstChild);
 
 }
 
 
+and we can use for loop like 
+
+var obj=document.querySelectorAl('.nameOfClass)
+
+for(var x =0;x<obj.length;x++){
+
+obj[x].textcontent="what you want";
+
+
+
+}
+
+
+
+
+
 **parent** is used to refer to the direct parent of a given element.
+
 **first Child** refer to first item of li.
+
 **last Child** refer to last item of li.
+
 **previousSibling** property returns the previous node of the specified node, in the same tree level.node.previousSibling.
+
 **nextSibling** property returns the node following the specified node, in the same tree level.node.nextSibling.
+
 **textContent** refer to text of element like <p>textcontent<p>.
+
 **innertext** like the textcontent but innertext is aware of the rendered appearance of text, while textContent is not.
-**innerHTML** there are security risks associated with using innerHTML. can be used on any element node. it used both to retrieve and replace content.
+
+
+**innerHTML** there are security risks associated with using innerHTML. can be used on any element node. it used both to retrieve and replace 
+
+content.
+
 **DOM Manipulation** easily targets individual nodes in the DOM tree.it can be safer than ussing innerHTML
+
 **innerHTML**The innerHTML property sets or returns the HTML content (inner HTML) of an element. obj.innerHTML for return property
+
 obj.innerHTML = "Anything" for set property
 
+
+
 ADDING ELEMENTS USING DOM MANIPULATION :
+
 1.CREATE THE ELEMENT createEl ement ()
+
 2.GIVE IT CONTENT createTextNode()
+
 3.ADD IT TO THE DOM appendChild() 
 
 REMOVING ELEMENTS VIA DOM MANIPULATION :
+
 1. STORE THE ELEMENT TO BE REMOVED IN A VARIABLE
+
 2. STORE THE PARENT OF THAT ELEMENT IN A VARIABLE 
+
 3. REMOVE THE ELEMENT FROM ITS CONTA INING ELEMENT
+
 document.write()
-The document object's write () method is a simple way to add content that was not in the original source code to the page, but its use is rarely advised.
+
+The document object's write () method is a simple way to add content that was not in the original source code to the page, but its use is rarely 
+
+advised.
+
 
 adv of innnerHTML :
+
 - You can use it to add a lot of new markup using less code than DOM manipulation methods.
+
 - It can be faster than DOM manipulation when adding a lot of new elements to a web page.
+
 - It is a simple way to remove all of the content from one element (by assigning it a blank string)
+
 adv of Manipulation :
+
 -It is suited to changing one element from a DOM fragment where there are many siblings.
+
 - It does not affect event handlers.
+
 - It easily allows a script to add elements incrementally (when you do not want to alter a lot of code at once).
 
-Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users
+
+
+Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-
+
+side scripts into web pages viewed by other users
+
 DEFENDING AGAINST CROSS-SITE SCRIPTING :
+
 -VALIDATE INPUT GOING TO THE SERVER
-  -Only let visitors input the kind of characters they need to when supplying information. This is known as validation. Do not allow untrusted users to submit HTML markup or JavaScript. 
-  -Double-check validation on the server before displaying user content/storing it in a database. This is important because users could bypass validation in the browser by turning JavaScript off. 
-  -The database may safely contain markup and script from trusted sources (e.g., your content management system). This is because it does not try to process the code; it just stores it.  
+  
+  -Only let visitors input the kind of characters they need to when supplying information. This is known as validation. Do not allow untrusted 
+  
+  users to submit HTML markup or JavaScript. 
+  
+  -Double-check validation on the server before displaying user content/storing it in a database. This is important because users could bypass 
+  
+  validation in the browser by turning JavaScript off. 
+  
+  -The database may safely contain markup and script from trusted sources (e.g., your content management system). This is because it does not try 
+  
+  to process the code; it just stores it.  
+  
   -As your data leaves the database, all potentially dangerous characters should be escaped (see p231). 
+  
   -Make sure that you are only inserting content generated by users into certain parts of the template files (see p230).   
+  
   -Do not create DOM fragments containing HTML from untrusted sources. It should only be added as text once it has been escaped. 
  
 XSS: VALIDATION & TEMPLATES:
+
 Make sure that your users can only input characters they need to use and limit where this content will be shown on the page. 
+
 XSS: ESCAPING & CONTROLLING MARKUP :
-Any content generated by users that contain characters that are used in code should be escaped on the server. You must control any markup added to the page. 
+
+Any content generated by users that contain characters that are used in code should be escaped on the server. You must control any markup added to 
+
+the page. 
 
 **Attribute**
+
 *getAttribute() method returns the value of the attribute with the specified name, of an element.*
+
 *hasAttribute() method returns true if the specified attribute exists, otherwise it returns false.*
+
 *removeAttribute() method removes the specified attribute from an element.*
+
 *setAttribute() method adds the specified attribute to an element, and gives it the specified value.*
+
