@@ -59,4 +59,10 @@ both have src attribute to select path or link of file, and controll attribute t
 we can edit and controll with this attributes by JS .
 
 
+flash player it was developed to create animations but in 2005 set of JavaScript libraries were launched (including Prototype, script.aculo.us, and JQuery) which made it easier for people to create animated effects using JavaScript.
 
+since 31 dec 2020 adobe flash player is no longer support 
+
+from my own experince flash player is the first programe i learned it , when i was young  i made many animations by keyframe in flash player .
+
+Good Bye Flash Player 
