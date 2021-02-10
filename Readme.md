@@ -7,7 +7,7 @@
 |[How Computer Work](https://ayoubkandah.github.io/reading-notes/Computer)|[HTML&JS Read 03](https://ayoubkandah.github.io/reading-notes/Read03) |
 |[Github](https://ayoubkandah.github.io/reading-notes/Readme3)|[HTML&JS Read 04](https://ayoubkandah.github.io/reading-notes/Read04)|
 |[HTML](https://ayoubkandah.github.io/reading-notes/HTML)|[HTML 05](https://ayoubkandah.github.io/reading-notes/Read05)|
-|[CSS](https://ayoubkandah.github.io/reading-notes/CSS)|||
+|[CSS](https://ayoubkandah.github.io/reading-notes/CSS)|[Js,The DOM](https://ayoubkandah.github.io/reading-notes/Read06)|
 |[JS (1)](https://ayoubkandah.github.io/reading-notes/60aJS)||
 |[JS (2)](https://ayoubkandah.github.io/reading-notes/java07)||
 |[JS (3)](https://ayoubkandah.github.io/reading-notes/java08)||
