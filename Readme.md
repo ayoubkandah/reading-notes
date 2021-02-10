@@ -12,6 +12,10 @@
 |[JS (2)](https://ayoubkandah.github.io/reading-notes/java07)|[CSS Layout 08](https://ayoubkandah.github.io/reading-notes/Read08)|
 |[JS (3)](https://ayoubkandah.github.io/reading-notes/java08)|[Forms & Events 09](https://ayoubkandah.github.io/reading-notes/Read09)|
 ||[JS Debugging 10](https://ayoubkandah.github.io/reading-notes/Read10)|
+||[HTML images 11](https://ayoubkandah.github.io/reading-notes/Read11)|
+||[Local Storage 13](https://ayoubkandah.github.io/reading-notes/Read13)|
+||[ CSS Transforms, Transitions, and Animations 14a](https://ayoubkandah.github.io/reading-notes/Read14a)|
+||[What Google Learned About Teams 14b](https://ayoubkandah.github.io/reading-notes/Read14b)|
 
 
 **Growth Mindset**   
