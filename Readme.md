@@ -1,7 +1,7 @@
 # Table of content
 
-| Code 102    | Code 201     |Code 301|Code 401|
-| :---        |          ---: ||
+| Code 102    | Code 201     |Code 301|
+| :---        |          ---: |    ---:|
 | [Mastering markdown](https://ayoubkandah.github.io/reading-notes/Readme1)      | [HTML&JS Read 01](https://ayoubkandah.github.io/reading-notes/class-01)   ||
 | [introduction for myself](https://ayoubkandah.github.io/reading-notes/myself)   | [HTML&JS Read 02](https://ayoubkandah.github.io/reading-notes/class-02)      ||
 |[How Computer Work](https://ayoubkandah.github.io/reading-notes/Computer)|[HTML&JS Read 03](https://ayoubkandah.github.io/reading-notes/Read03) ||
