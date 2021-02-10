@@ -11,8 +11,7 @@
 |[JS (1)](https://ayoubkandah.github.io/reading-notes/60aJS)|[HTML Tables,JS constructor 07](https://ayoubkandah.github.io/reading-notes/Read07)|
 |[JS (2)](https://ayoubkandah.github.io/reading-notes/java07)|[CSS Layout 08](https://ayoubkandah.github.io/reading-notes/Read08)|
 |[JS (3)](https://ayoubkandah.github.io/reading-notes/java08)|[Forms & Events 09](https://ayoubkandah.github.io/reading-notes/Read09)|
-
-
+||[JS Debugging 10](https://ayoubkandah.github.io/reading-notes/Read10)|
 
 
 **Growth Mindset**   
