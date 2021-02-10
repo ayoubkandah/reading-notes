@@ -1,21 +1,21 @@
 # Table of content
 
-| Code 102    | Code 201     |
-| :---        |          ---: |
-| [Mastering markdown](https://ayoubkandah.github.io/reading-notes/Readme1)      | [HTML&JS Read 01](https://ayoubkandah.github.io/reading-notes/class-01)   |
-| [introduction for myself](https://ayoubkandah.github.io/reading-notes/myself)   | [HTML&JS Read 02](https://ayoubkandah.github.io/reading-notes/class-02)      |
-|[How Computer Work](https://ayoubkandah.github.io/reading-notes/Computer)|[HTML&JS Read 03](https://ayoubkandah.github.io/reading-notes/Read03) |
-|[Github](https://ayoubkandah.github.io/reading-notes/Readme3)|[HTML&JS Read 04](https://ayoubkandah.github.io/reading-notes/Read04)|
-|[HTML](https://ayoubkandah.github.io/reading-notes/HTML)|[HTML 05](https://ayoubkandah.github.io/reading-notes/Read05)|
-|[CSS](https://ayoubkandah.github.io/reading-notes/CSS)|[Js,The DOM 06](https://ayoubkandah.github.io/reading-notes/Read06)|
-|[JS (1)](https://ayoubkandah.github.io/reading-notes/60aJS)|[HTML Tables,JS constructor 07](https://ayoubkandah.github.io/reading-notes/Read07)|
-|[JS (2)](https://ayoubkandah.github.io/reading-notes/java07)|[CSS Layout 08](https://ayoubkandah.github.io/reading-notes/Read08)|
-|[JS (3)](https://ayoubkandah.github.io/reading-notes/java08)|[Forms & Events 09](https://ayoubkandah.github.io/reading-notes/Read09)|
-||[JS Debugging 10](https://ayoubkandah.github.io/reading-notes/Read10)|
-||[HTML images 11](https://ayoubkandah.github.io/reading-notes/Read11)|
-||[Local Storage 13](https://ayoubkandah.github.io/reading-notes/Read13)|
-||[ CSS Transforms, Transitions, and Animations 14a](https://ayoubkandah.github.io/reading-notes/Read14a)|
-||[What Google Learned About Teams 14b](https://ayoubkandah.github.io/reading-notes/Read14b)|
+| Code 102    | Code 201     |Code 301|Code 401|
+| :---        |          ---: ||
+| [Mastering markdown](https://ayoubkandah.github.io/reading-notes/Readme1)      | [HTML&JS Read 01](https://ayoubkandah.github.io/reading-notes/class-01)   ||
+| [introduction for myself](https://ayoubkandah.github.io/reading-notes/myself)   | [HTML&JS Read 02](https://ayoubkandah.github.io/reading-notes/class-02)      ||
+|[How Computer Work](https://ayoubkandah.github.io/reading-notes/Computer)|[HTML&JS Read 03](https://ayoubkandah.github.io/reading-notes/Read03) ||
+|[Github](https://ayoubkandah.github.io/reading-notes/Readme3)|[HTML&JS Read 04](https://ayoubkandah.github.io/reading-notes/Read04)||
+|[HTML](https://ayoubkandah.github.io/reading-notes/HTML)|[HTML 05](https://ayoubkandah.github.io/reading-notes/Read05)||
+|[CSS](https://ayoubkandah.github.io/reading-notes/CSS)|[Js,The DOM 06](https://ayoubkandah.github.io/reading-notes/Read06)||
+|[JS (1)](https://ayoubkandah.github.io/reading-notes/60aJS)|[HTML Tables,JS constructor 07](https://ayoubkandah.github.io/reading-notes/Read07)||
+|[JS (2)](https://ayoubkandah.github.io/reading-notes/java07)|[CSS Layout 08](https://ayoubkandah.github.io/reading-notes/Read08)||
+|[JS (3)](https://ayoubkandah.github.io/reading-notes/java08)|[Forms & Events 09](https://ayoubkandah.github.io/reading-notes/Read09)||
+||[JS Debugging 10](https://ayoubkandah.github.io/reading-notes/Read10)||
+||[HTML images 11](https://ayoubkandah.github.io/reading-notes/Read11)||
+||[Local Storage 13](https://ayoubkandah.github.io/reading-notes/Read13)||
+||[ CSS Transforms 14a](https://ayoubkandah.github.io/reading-notes/Read14a)||
+||[Google 14b](https://ayoubkandah.github.io/reading-notes/Read14b)||
 
 
 **Growth Mindset**   
