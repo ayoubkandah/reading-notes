@@ -33,6 +33,7 @@ pair programming commonly involves two roles
 
 -the Driver who is typing a code
 
+
 -the Navigator uses their words to guide the Driver
 
 6 reason for pair programing :
