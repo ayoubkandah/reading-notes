@@ -15,7 +15,7 @@
 ||[HTML images 11](https://ayoubkandah.github.io/reading-notes/Read11)|[Read 12](https://ayoubkandah.github.io/reading-notes/Read12Code301)||
 ||[Local Storage 13](https://ayoubkandah.github.io/reading-notes/Read13)|[Read 13](https://ayoubkandah.github.io/reading-notes/Read13Code301)||
 ||[ CSS Transforms 14a](https://ayoubkandah.github.io/reading-notes/Read14a)|[Read 14](https://ayoubkandah.github.io/reading-notes/Read14Code301)||
-||[Google 14b](https://ayoubkandah.github.io/reading-notes/Read14b)|[Read 15]|(https://ayoubkandah.github.io/reading-notes/Read15Code301)|
+||[Google 14b](https://ayoubkandah.github.io/reading-notes/Read14b)|[Read 15](https://ayoubkandah.github.io/reading-notes/Read15Code301)||
 
 
 **Growth Mindset**   
